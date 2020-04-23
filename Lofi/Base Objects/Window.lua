@@ -5,7 +5,7 @@ local root = {
 	ID = 0;
 	Type = "ScreenGui";
 	Properties = {
-		Name = "Lofi";
+		Name = "AVAC";
 	};
 	Children = {
 		{
